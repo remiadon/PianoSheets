@@ -11,7 +11,21 @@ upper = \relative c'' {
   ees8 d2 r8
   ees8 d2 r8
   f4 r8 ees4 d8 r16 \tiny{d16} \normalsize{ees8} d2  % total of 6 blacks
-  
+
+  ees8 d2 r8
+  ees8 d2 r8
+  ees1 r2
+
+  ees8 d2 r8
+  f8 ees2 r8
+  g4 r8 f4 ees8 r16 \tiny{ees16} \normalsize{f8} ees2  % total of 6 blacks
+
+  ees8 d4 d4 d8
+  ees8 d4 d4 r8
+  d1 r2
+
+
+
 }
 
 lower = \relative c {
@@ -46,6 +60,20 @@ lower = \relative c {
   bes ees g ees g ees
   aes, ees' g ees g ees
   
+  g, ees' g ees g ees
+  aes, ees' g ees g ees
+  bes ees g ees g ees
+  g ees g ees g ees
+
+  g, ees' g ees g ees
+  aes, ees' g ees g ees
+  bes ees g ees g ees
+  aes, ees' g ees g ees
+
+  g, ees' g ees g ees
+  aes, ees' g ees g ees
+  bes ees g ees g ees
+  aes, ees' g ees g ees
 }
 
 \score {
