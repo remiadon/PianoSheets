@@ -41,17 +41,24 @@ upper = \relative c'' {
   g1 r2
 
   aes8 g2 r8
-  bes8 aes2 r8
+  %bes8 aes2 r8
+  aes8 g2 r8
   c4 bes4 r8 g8 f8 ees2 r8
 
   aes8 g4 g4 g8
   aes8 g4 g4 g8
   g1 r2
 
-
   \pageBreak
-
   
+  aes8 g2 r8
+  bes8 aes2 r8
+  g2 r8 d8 ees8 f2 r8
+
+  aes8 g4 g4 g8
+  aes8 g4 g4 g8
+  g1 r2
+
 }
 
 lower = \relative c {
@@ -100,6 +107,16 @@ lower = \relative c {
   aes, ees' g ees g ees
   bes ees g ees g ees
   g ees g ees g ees
+
+  c ees g ees g ees
+  d ees g ees g ees
+  bes ees g ees g ees
+  c ees g ees g ees
+
+  c ees g ees g ees
+  d ees g ees g ees
+  bes ees g ees g ees
+  c ees g ees g ees
 
   c ees g ees g ees
   d ees g ees g ees
