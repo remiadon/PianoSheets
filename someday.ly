@@ -59,6 +59,16 @@ upper = \relative c'' {
   aes8 g4 g4 g8
   g1 r2
 
+  c,8 bes2 r8
+  c8 bes2 r8
+  c8 bes2 r8
+  c8 bes2 r8
+
+  c8 bes4 bes4 r8
+  c8 bes2 r8
+  c8 bes4 r16 \tiny{ees32 des32} \small{ces4} \normalsize{bes2} r4
+
+
 }
 
 lower = \relative c {
@@ -137,6 +147,18 @@ lower = \relative c {
   d ees g ees g ees
   bes ees g ees g ees
   c ees g ees g ees
+
+  aes,, ees' aes ees aes ees
+  ges, des' aes' des, aes' des,
+  
+  aes ees' aes ees aes ees
+  ges, des' aes' des, aes' des,
+
+  aes ees' aes ees aes ees
+  ges, des' aes' des, aes' des,
+
+  aes ees' aes ees aes ees
+  ges, des' aes' des, aes' des,
 }
 
 \score {
