@@ -1,3 +1,9 @@
+\header {
+    title = "Someday"
+    composer = "Rémi"
+    %piece = "Prélude."
+  }
+
 upper = \relative c'' {
   \clef treble
   \key ees \major
@@ -16,6 +22,8 @@ upper = \relative c'' {
   ees8 d2 r8
   ees1 r2
 
+  \pageBreak
+
   ees8 d2 r8
   f8 ees2 r8
   g4 r8 f4 ees8 r16 \tiny{ees16} \normalsize{f8} ees2  % total of 6 blacks
@@ -24,8 +32,26 @@ upper = \relative c'' {
   ees8 d4 d4 r8
   d1 r2
 
+  aes'8 g2 r8
+  bes8 aes2 r8
+  g4 r8 f4 ees8 r16 \tiny{ees16} \normalsize{f8} ees2
+
+  aes8 g4 g4 g8
+  aes8 g4 g4 g8
+  g1 r2
+
+  aes8 g2 r8
+  bes8 aes2 r8
+  c4 bes4 r8 g8 f8 ees2 r8
+
+  aes8 g4 g4 g8
+  aes8 g4 g4 g8
+  g1 r2
 
 
+  \pageBreak
+
+  
 }
 
 lower = \relative c {
@@ -73,7 +99,27 @@ lower = \relative c {
   g, ees' g ees g ees
   aes, ees' g ees g ees
   bes ees g ees g ees
-  aes, ees' g ees g ees
+  g ees g ees g ees
+
+  c ees g ees g ees
+  d ees g ees g ees
+  bes ees g ees g ees
+  c ees g ees g ees
+
+  c ees g ees g ees
+  d ees g ees g ees
+  bes ees g ees g ees
+  c ees g ees g ees
+
+  c ees g ees g ees
+  d ees g ees g ees
+  bes ees g ees g ees
+  c ees g ees g ees
+
+  c ees g ees g ees
+  d ees g ees g ees
+  bes ees g ees g ees
+  c ees g ees g ees
 }
 
 \score {
