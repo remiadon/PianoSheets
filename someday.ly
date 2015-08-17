@@ -1,9 +1,17 @@
 upper = \relative c'' {
   \clef treble
   \key ees \major
-  \time 7/8
+  \time 6/2
 
   %a4 b c d
+  r1 r1 r1 r1
+  r1 r1 r1 r1
+  r1 r1 r1 r1
+
+  ees8 d2 r8
+  ees8 d2 r8
+  f4 r8 ees4 d8 r16 \tiny{d16} \normalsize{ees8} d2  % total of 6 blacks
+  
 }
 
 lower = \relative c {
@@ -32,6 +40,11 @@ lower = \relative c {
   aes, ees' g ees g ees
   bes ees g ees g ees
   g ees g ees g ees
+
+  g, ees' g ees g ees
+  aes, ees' g ees g ees
+  bes ees g ees g ees
+  aes, ees' g ees g ees
   
 }
 
