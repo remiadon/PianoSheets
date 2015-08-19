@@ -7,10 +7,12 @@
 upper = \relative c'' {
   \clef treble
   \key f \minor
-  \time 8/4
+  \time 16/4
 
-  %aes8 g8 aes8 g8 aes8 g8 aes8 g8 c8 bes2
-  aes8 g8 aes8 g8 aes8 g8 aes8 g8 c8 bes2
+  aes g aes g aes g aes g c bes2 r4
+  %aes8 g8 aes8 g8 aes8 g8 aes8 g8 c8 bes8 aes2 g4
+
+  %\teeny{ees32 des32} \normalsize{c2}
 
 
 }
@@ -18,10 +20,12 @@ upper = \relative c'' {
 lower = \relative c {
   \clef bass
   \key f \minor
-  \time 8/4
+  \time 8/2
 
-  f,4 c'4 f4 aes4 des,4 f4 aes4 f4
+  f, c' f aes des, f aes f
+  %f,4 c'4 f4 aes4 des,4 f4 aes4 f4
 
+  %f,4 c'4 f4 aes4 des,4 f4 aes4 f4
 }
 
 
