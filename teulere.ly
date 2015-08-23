@@ -20,10 +20,12 @@ upper = \relative c'' {
   c8 f8 c8 f8 c8 f4 ees4 f2 r2
 
   f8 c'8 f,8 c'8 f,8 c'8 f,8 r1 r4
-  f8 c'8 f,8 c'8 f,8 c'8 f,8 r1 r4
+  f8 c'8 f,8 c'8 ees,8 c'8 bes4 r8 c2 r2
+  f,8 c'8 f,8 c'8 f,8 c'8 f,8 r1 r4
+  f8 c'8 f,8 c'8 ees,8 c'8 bes4 r8 c2 r2
 
-  f8 c'8 f,8 c'8 f,8 c'8 f,8 r1 r4
-  f8 c'8 f,8 c'8 f,8 c'8 f,8 r1 r4
+  % f8 c'8 f,8 c'8 f,8 c'8 f,8 r1 r4
+  % f8 c'8 f,8 c'8 f,8 c'8 f,8 r1 r4
 
   \pageBreak
 
