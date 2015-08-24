@@ -29,7 +29,7 @@ upper = \relative c'' {
   c,8 f8 c8 f8 c8 f1 r2
   c8 f8 c8 f8 c8 f4 ees4 \teeny{ees16} \normalsize{f2} r4 r8 r16
   c8 f8 c8 f8 c8 f1 r2
-  c8 f8 c8 f8 c8 f4 ees4 f2 r2
+  c8 f8 c8 f8 c8 f4 ees2 r2 r4
 
   % f8 c'8 f,8 c'8 f,8 c'8 f,8 r1 r4
   % f8 c'8 f,8 c'8 f,8 c'8 f,8 r1 r4
