@@ -66,7 +66,7 @@ upper = \relative c'' {
 
   c8 bes4 bes4 r8
   c8 bes2 r8
-  c8 bes4 r16 \tiny{ees32 des32} \small{ces4} \normalsize{bes2} r4
+  c8 bes4 r16 \tiny{ees32 des32} \small{c4} \normalsize{bes2} r4
 
 
 }
